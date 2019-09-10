@@ -1,9 +1,9 @@
 # Caesar-cipher(Encryption and decryption)
 this is how it look:
 <img src= "images/Encryption.png">
-<img src="images/Descryption.png">
+<img src="images/Decryption.png">
 <img src= "images/App.java.png">
-<img src= "imgaes/results.png">
+<img src= "images/results.png">
 
 ## Description
 Caesar cipher is a type of substitution in which each letter is shifted a certain 
