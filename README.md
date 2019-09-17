@@ -52,5 +52,5 @@ Clone the project.
   * Gradle for dependency management and runningtasks.
   
  ## Support & contact
-  Email adress : umurerwalynda@gmail.com
-  github-username : lyndaflower
+  * Email adress : umurerwalynda@gmail.com
+  * github-username : lyndaflower
