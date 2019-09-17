@@ -35,7 +35,7 @@ sdk install gradle
 
 2,You need to get into the Encrypter Repository.
 
-Link:-> https://github.com/zecollokaris/Encrypter-Java
+Link:-> https://github.com/lyndaflowwer/caesar-cipher
 
 3.From there you can access the Encrypter.
 
@@ -48,10 +48,9 @@ Clone the project.
   gradle run
   
  ## Technologies Used
-  java - source language.
-  Gradle for dependency management and runningtasks.
+  * java - source language.
+  * Gradle for dependency management and runningtasks.
   
  ## Support & contact
-  mobile number:(+250781213705)
   Email adress : umurerwalynda@gmail.com
   github-username : lyndaflower
